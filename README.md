@@ -2,6 +2,7 @@
 Real-Time Earthquake Detection and Magnitude Estimation using Vision Transformer
 
 # Example
+# 1- For P-wave arrival Picking
 
 Please first download the mseed data from
 https://drive.google.com/drive/folders/1jAkW4kOvwUDYxXW-ty3BTY81fjLF7sKE?usp=share_link
