@@ -21,3 +21,8 @@ Then download the VIT magnitude estimation model from
 https://figshare.com/account/projects/125335/articles/16870855
 
 Then run "VIT_Magnitude_Estimation.ipynb"
+
+# Citation
+Saad, Omar M., Yunfeng Chen, Alexandros Savvaidis, Sergey Fomel, and Yangkang Chen. "Real‐Time Earthquake Detection and Magnitude Estimation Using Vision Transformer." Journal of Geophysical Research: Solid Earth 127, no. 5 (2022): e2021JB023657.
+
+Doi:  https://doi.org/10.1029/2021JB023657
