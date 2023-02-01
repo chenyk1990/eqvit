@@ -22,7 +22,7 @@ https://figshare.com/account/projects/125335/articles/16870855
 
 Then run "VIT_Magnitude_Estimation.ipynb"
 
-# Citation
+## Reference
 BibTeX:
 
   @article{eqvit,
