@@ -23,13 +23,15 @@ https://figshare.com/account/projects/125335/articles/16870855
 Then run "VIT_Magnitude_Estimation.ipynb"
 
 # Citation
-@article{saad2022real,
-  title={Real-Time Earthquake Detection and Magnitude Estimation Using Vision Transformer},
-  author={Saad, Omar M and Chen, Yunfeng and Savvaidis, Alexandros and Fomel, Sergey and Chen, Yangkang},
-  journal={Journal of Geophysical Research: Solid Earth},
-  volume={127},
-  number={5},
-  pages={e2021JB023657},
-  year={2022},
-  publisher={Wiley Online Library}
-}
+BibTeX:
+
+  @article{eqvit,
+    title={Real-Time Earthquake Detection and Magnitude Estimation Using Vision Transformer},
+    author={Saad, Omar M and Chen, Yunfeng and Savvaidis, Alexandros and Fomel, Sergey and Chen, Yangkang},
+    journal={Journal of Geophysical Research: Solid Earth},
+    volume={127},
+    number={5},
+    pages={e2021JB023657},
+    year={2022},
+    publisher={Wiley Online Library}
+  }
