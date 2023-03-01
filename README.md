@@ -14,11 +14,8 @@ Then run "Predict_MSEED_EQVIT.ipynb"
 
 # 2- For Magnitude Estimation
 
-Please download test data from
-https://figshare.com/account/projects/125335/articles/16870861?file=31189768
-
-Then download the VIT magnitude estimation model from
-https://figshare.com/account/projects/125335/articles/16870855
+Please download test data and VIT magnitude estimation model from
+https://figshare.com/projects/ViTMAG/125335
 
 Then run "VIT_Magnitude_Estimation.ipynb"
 
